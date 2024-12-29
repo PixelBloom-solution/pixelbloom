@@ -325,11 +325,10 @@ h6,
     display: flex;
     align-items: center;
     justify-content: center;
-    background: var(--primary);
+    background: #f1ab53;
     border-radius: 2px;
     transform: rotate(-45deg);
 }
-
 .service-item .service-icon i {
     transform: rotate(45deg);
 }
@@ -370,7 +369,7 @@ h6,
 
 .testimonial-carousel .owl-dot.active {
     width: 30px;
-    background: var(--primary);
+    background: #f8ae40;
 }
 
 .testimonial-carousel .owl-item.center {
