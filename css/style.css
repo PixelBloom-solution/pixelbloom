@@ -188,14 +188,14 @@ h6,
         background: #FFFFFF;
     }
 
-    .navbar-dark .navbar-nav .nav-link::before {
+        .navbar-dark .navbar-nav .nav-link::before {
         position: absolute;
         content: "";
         width: 0;
         height: 2px;
         bottom: -1px;
         left: 50%;
-        background: var(--primary);
+        background: #f7ad40;
         transition: .5s;
     }
 
@@ -210,7 +210,7 @@ h6,
     }
 
     .sticky-top.navbar-dark .navbar-brand h1 {
-        color: var(--primary);
+        color: #f1ab53;
     }
 }
 
